@@ -1,0 +1,19 @@
+##¿Podés ver el archivo tp2_1_2.c en el explorador de archivos o en VSCode?
+
+No,Porque ese archivo se creó y se hizo commit en la rama Opcion_2, y no forma parte todavía del historial de la rama main.
+
+##¿Qué diferencias podés ver?
+
+En la rama main, tp2_1_2.c no existe, porque fue creado en Opcion_2.
+
+Ahora hay un commit nuevo en main que no existe en Opcion_2: el que agrega Respuestas.txt.
+
+##¿Qué cambió?
+
+El archivo tp2_1_2.c ahora aparece en la rama main, aunque antes no estaba.
+
+En el historial de commits vi:
+
+Un commit nuevo de merge que une los historiales de main y Opcion_2.
+
+Todos los commits de Opcion_2 ahora están en main.
